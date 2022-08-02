@@ -1,0 +1,15 @@
+C:\Users\zeynep\source\repos\BodyMassIndex\BodyMassIndex\bin\Debug\net6.0\BodyMassIndex.exe
+C:\Users\zeynep\source\repos\BodyMassIndex\BodyMassIndex\bin\Debug\net6.0\BodyMassIndex.deps.json
+C:\Users\zeynep\source\repos\BodyMassIndex\BodyMassIndex\bin\Debug\net6.0\BodyMassIndex.runtimeconfig.json
+C:\Users\zeynep\source\repos\BodyMassIndex\BodyMassIndex\bin\Debug\net6.0\BodyMassIndex.dll
+C:\Users\zeynep\source\repos\BodyMassIndex\BodyMassIndex\bin\Debug\net6.0\BodyMassIndex.pdb
+C:\Users\zeynep\source\repos\BodyMassIndex\BodyMassIndex\obj\Debug\net6.0\BodyMassIndex.csproj.AssemblyReference.cache
+C:\Users\zeynep\source\repos\BodyMassIndex\BodyMassIndex\obj\Debug\net6.0\BodyMassIndex.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zeynep\source\repos\BodyMassIndex\BodyMassIndex\obj\Debug\net6.0\BodyMassIndex.AssemblyInfoInputs.cache
+C:\Users\zeynep\source\repos\BodyMassIndex\BodyMassIndex\obj\Debug\net6.0\BodyMassIndex.AssemblyInfo.cs
+C:\Users\zeynep\source\repos\BodyMassIndex\BodyMassIndex\obj\Debug\net6.0\BodyMassIndex.csproj.CoreCompileInputs.cache
+C:\Users\zeynep\source\repos\BodyMassIndex\BodyMassIndex\obj\Debug\net6.0\BodyMassIndex.dll
+C:\Users\zeynep\source\repos\BodyMassIndex\BodyMassIndex\obj\Debug\net6.0\refint\BodyMassIndex.dll
+C:\Users\zeynep\source\repos\BodyMassIndex\BodyMassIndex\obj\Debug\net6.0\BodyMassIndex.pdb
+C:\Users\zeynep\source\repos\BodyMassIndex\BodyMassIndex\obj\Debug\net6.0\BodyMassIndex.genruntimeconfig.cache
+C:\Users\zeynep\source\repos\BodyMassIndex\BodyMassIndex\obj\Debug\net6.0\ref\BodyMassIndex.dll
